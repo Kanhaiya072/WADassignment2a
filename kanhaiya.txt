@@ -1,0 +1,14 @@
+<!DOCUMENT html>
+<html>
+  <head>
+    <meta>
+
+    <tilte> Kanhaiya's web page</title>
+
+  </head>
+
+<body>
+    This is  wad assignment2. 
+</body>
+
+</html>
